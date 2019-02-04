@@ -1,13 +1,11 @@
 {
-  "main.css": "/glitch-dot-game/static/css/main.f063a8b6.chunk.css",
-  "main.js": "/glitch-dot-game/static/js/main.16715210.chunk.js",
-  "main.js.map": "/glitch-dot-game/static/js/main.16715210.chunk.js.map",
-  "static/js/1.9d65a0d5.chunk.js": "/glitch-dot-game/static/js/1.9d65a0d5.chunk.js",
-  "static/js/1.9d65a0d5.chunk.js.map": "/glitch-dot-game/static/js/1.9d65a0d5.chunk.js.map",
-  "runtime~main.js": "/glitch-dot-game/static/js/runtime~main.9d80d2bc.js",
-  "runtime~main.js.map": "/glitch-dot-game/static/js/runtime~main.9d80d2bc.js.map",
-  "static/css/main.f063a8b6.chunk.css.map": "/glitch-dot-game/static/css/main.f063a8b6.chunk.css.map",
-  "index.html": "/glitch-dot-game/index.html",
-  "precache-manifest.f23b28ce5a552cc2b32c6ca41dbc5820.js": "/glitch-dot-game/precache-manifest.f23b28ce5a552cc2b32c6ca41dbc5820.js",
-  "service-worker.js": "/glitch-dot-game/service-worker.js"
+  "main.js": "/dt-code-jam/static/js/main.390d726a.chunk.js",
+  "main.js.map": "/dt-code-jam/static/js/main.390d726a.chunk.js.map",
+  "static/js/1.4a34e45d.chunk.js": "/dt-code-jam/static/js/1.4a34e45d.chunk.js",
+  "static/js/1.4a34e45d.chunk.js.map": "/dt-code-jam/static/js/1.4a34e45d.chunk.js.map",
+  "runtime~main.js": "/dt-code-jam/static/js/runtime~main.75d5e119.js",
+  "runtime~main.js.map": "/dt-code-jam/static/js/runtime~main.75d5e119.js.map",
+  "index.html": "/dt-code-jam/index.html",
+  "precache-manifest.23b6e2db8831443ed997c59d8e282931.js": "/dt-code-jam/precache-manifest.23b6e2db8831443ed997c59d8e282931.js",
+  "service-worker.js": "/dt-code-jam/service-worker.js"
 }
