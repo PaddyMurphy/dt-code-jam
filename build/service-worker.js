@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/glitch-dot-game/precache-manifest.f23b28ce5a552cc2b32c6ca41dbc5820.js"
+  "/dt-code-jam/precache-manifest.23b6e2db8831443ed997c59d8e282931.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/glitch-dot-game/index.html", {
+workbox.routing.registerNavigationRoute("/dt-code-jam/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
