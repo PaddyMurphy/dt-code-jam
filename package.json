@@ -1,7 +1,7 @@
 {
-  "name": "Dots",
-  "version": "1.0.0",
-  "description": "Dot game",
+  "name": "dt-code-jam",
+  "version": "0.0.1",
+  "description": "DT code jam",
   "homepage": "https://mountaindrawn.com/glitch-dot-game",
   "scripts": {
     "build-css": "node-sass-chokidar src/ -o src/",
