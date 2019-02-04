@@ -2,7 +2,7 @@
   "name": "dt-code-jam",
   "version": "0.0.1",
   "description": "DT code jam",
-  "homepage": "https://mountaindrawn.com/glitch-dot-game",
+  "homepage": "https://mountaindrawn.com/dt-code-jam",
   "scripts": {
     "build-css": "node-sass-chokidar src/ -o src/",
     "watch-css": "npm run build-css && node-sass-chokidar src/ -o src/ --watch --recursive",
